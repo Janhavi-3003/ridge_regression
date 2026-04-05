@@ -9,7 +9,7 @@ from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\acer\OneDrive\Documents\ML TASK\housing.csv")
+df = pd.read_csv(r"C:\Users\ALG\OneDrive\Desktop\2nd yr Project data\housing.csv")
 
 print("First 5 rows:")
 print(df.head())
